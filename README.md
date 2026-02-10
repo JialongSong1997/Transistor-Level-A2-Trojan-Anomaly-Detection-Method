@@ -1,5 +1,3 @@
-# Transistor-Level-A2-Trojan-Anomaly-Detection-Method
-This repository provides a two-stage framework for  transistor-level A2 hardware Trojan detection based on graph analysis and unsupervised anomaly screening.  
 # Transistor-Level A2 Trojan Detection via Isolation Forest and VF2
 
 This repository provides a two-stage framework for **transistor-level A2 hardware Trojan detection** based on **graph analysis** and **unsupervised anomaly screening**.  
@@ -59,3 +57,4 @@ Final A2 Trojan Detection Result
 If you find this code useful in your research, please consider citing the following paper:
 J. Song, J. Zhang, X. Hu, Y. Zhang, J. He and J. Tan, ”Transistor-Level A2 Trojan
 Anomaly Detection Method” IEEE International Conference onElectronic Engineering and Information Systems
+---
