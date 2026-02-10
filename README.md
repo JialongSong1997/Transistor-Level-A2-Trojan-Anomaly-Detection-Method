@@ -56,5 +56,4 @@ Final A2 Trojan Detection Result
 ## Citation
 If you find this code useful in your research, please consider citing the following paper:
 
-J. Song, J. Zhang, X. Hu, Y. Zhang, J. He and J. Tan, ”Transistor-Level A2 Trojan
-Anomaly Detection Method” IEEE International Conference onElectronic Engineering and Information Systems
+J. Song, J. Zhang, X. Hu, Y. Zhang, J. He and J. Tan, "Transistor-Level A2 Trojan Anomaly Detection Method," 2025 2nd International Conference on Electronic Engineering and Information Systems (EEISS), Nanjing, China, 2025, pp. 1-7, doi: 10.1109/EEISS65394.2025.11086025.
